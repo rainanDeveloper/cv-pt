@@ -85,31 +85,31 @@ Times Idiomas - Curso avançado de Inglês
 
 ## Experiência
 
-`2017 - 2018`
+`2017-2018`
 <a href="https://portal.ifba.edu.br/camacari" target="_blank">IFBA Campus Camaçari</a>
 
 - Estagiário: Responsável pelo desenvolvimento do site da graduação em TI
 - Habilidades: Linguagem de programação PHP, HTML, CSS e Javascript
 
-`2018 - 2019`
+`2018-2019`
 <a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
 - Estagiário: Responsável pelo desenvolvimento de aplicações diversas(backend, frontend, desktop, etc).
 - Habilidades: Linguagem de programação PHP, HTML, CSS, Javascript, MySQL
 
-`2019 - 2021`
+`2019-2021`
 <a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
 - Engenheiro de Software Fullstack Júnior: Responsável pelo desenvolvimento de aplicações diversas(backend, frontend, desktop, etc).
 - Habilidades: Linguagem de programação PHP, HTML, CSS, Javascript, Node.js, Axios, MySQL, C#, .Net, PostgreSQL, Docker.
 
-`Nov 2021-Dez 2022`
+`2021-2022`
 <a href="https://www.linkedin.com/company/blockhub-builders" target="_blank">Blockhub Tecnologia</a>
 
 - Engenheiro de Software Backend Júnior: Responsável pelo desenvolvimento de diversas API's.
 - Habilidades: Node.js, Docker, MongoDB, Typescript, NestJS, Axios
 
-`Dez 2022-Abr 2024`
+`2022-2024`
 <a href="https://foursys.com.br/" target="_blank">Foursys</a>
 
 - Engenheiro de Software Backend Pleno no time do Banco Bradesco: Responsável pelo desenvolvimento de várias API's.
