@@ -23,7 +23,7 @@ Residencial Alpha V, Jardim Limoeiro, Camaçari - Bahia - Brasil
 
 ### Número de telefone (com Whatsapp)
 
-(71) 98938-0393
+(71) 98475-4843
 
 ### Email
 
