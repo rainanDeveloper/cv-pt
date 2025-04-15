@@ -23,7 +23,7 @@ Residencial Alpha V, Jardim Limoeiro, Camaçari - Bahia - Brasil
 
 ### Número de telefone (com Whatsapp)
 
-(71) 98938-0393
+(71) 98475-4843
 
 ### Email
 
@@ -114,6 +114,13 @@ Times Idiomas - Curso avançado de Inglês
 
 - Engenheiro de Software Backend Pleno no time do Banco Bradesco: Responsável pelo desenvolvimento de várias API's.
 - Habilidades: Docker, Node.js, Typescript, Axios, express
+
+`2024-Now` 
+<a href="https://foursys.com.br/" target="_blank">Naxtool Sistemas</a>
+
+- Tech Lead e Engenheiro de Software Fullstack: Responsável pelo projeto do [Concilia Pix](https://conciliapix.com).
+- Habilidades: Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
+
 
 <!-- ### Rodapé
 
