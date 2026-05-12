@@ -15,7 +15,7 @@ Backend Developer Pleno, Frontend Developer Júnior, Entusiasta de Bitcoin
 
 ### Endereço: 
 
-Residencial Alpha V, Jardim Limoeiro, Camaçari - Bahia - Brasil
+Residencial Morada dos Pardais III, Jardim Limoeiro, Camaçari - Bahia - Brasil
 
 ### Data de Nascimento
 
@@ -61,7 +61,7 @@ Node.js, MySQL, PostgreSQL, Redis, MongoDB
 
 ### Habilidades Devops e Sistemas Operacionais
 
-Linux, Nginx, Docker, Heroku, VM's, Digital Ocean Droplets
+Linux, Nginx, Docker, Heroku, VM's, Digital Ocean Droplets, VPS's
 
 ### Idiomas
 
@@ -80,8 +80,10 @@ English: entende bem, fala bem, lê bem, escreve bem
 `2015-2018`
 IFBA Campus Camaçari - Curso técnico de TI
 
-`2023-Agora`
+`2023-2024`
 Times Idiomas - Curso avançado de Inglês
+`2026-Agora`
+IFBA Campus Camaçari - ABI em computação
 
 ## Experiência
 
@@ -115,13 +117,17 @@ Times Idiomas - Curso avançado de Inglês
 - Engenheiro de Software Backend Pleno no time do Banco Bradesco: Responsável pelo desenvolvimento de várias API's.
 - Habilidades: Docker, Node.js, Typescript, Axios, express
 
-`2024-Now` 
-<a href="https://foursys.com.br/" target="_blank">Naxtool Sistemas</a>
+`2024-Agora` 
+<a href="https://naxtool.com.br/index.php/home" target="_blank">Naxtool Sistemas</a>
 
 - Tech Lead e Engenheiro de Software Fullstack: Responsável pelo projeto do [Concilia Pix](https://conciliapix.com).
-- Habilidades: Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
+- Habilidades: Golang, Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
 
+`2025-Agora`
+<a href="https://www.linkedin.com/company/codeforge-dev" target="_blank">Code Forge</a>
 
+- CEO e Lead Engineer
+- Habilidades: Golang, Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
 <!-- ### Rodapé
 
 Última Atualização: Abril de 2024 -->
