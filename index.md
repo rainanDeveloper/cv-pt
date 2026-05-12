@@ -82,6 +82,7 @@ IFBA Campus Camaçari - Curso técnico de TI
 
 `2023-2024`
 Times Idiomas - Curso avançado de Inglês
+
 `2026-Agora`
 IFBA Campus Camaçari - ABI em computação
 
@@ -128,6 +129,5 @@ IFBA Campus Camaçari - ABI em computação
 
 - CEO e Lead Engineer
 - Habilidades: Golang, Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
-<!-- ### Rodapé
 
-Última Atualização: Abril de 2024 -->
+Última Atualização: Marco de 2026
