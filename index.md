@@ -3,6 +3,7 @@ layout: cv
 title: CV de Rainan Miranda de Jesus
 ---
 # Rainan Miranda de Jesus
+
 Backend Developer Pleno, Frontend Developer Júnior, Entusiasta de Bitcoin
 
 <div id="webaddress">
@@ -13,9 +14,9 @@ Backend Developer Pleno, Frontend Developer Júnior, Entusiasta de Bitcoin
 
 ## Informações Pessoais
 
-### Endereço: 
+### Endereço:
 
-Residencial Morada dos Pardais III, Jardim Limoeiro, Camaçari - Bahia - Brasil
+Condomínio Morada dos Pardais III, Jardim Limoeiro, Camaçari - Bahia - Brasil
 
 ### Data de Nascimento
 
@@ -31,13 +32,13 @@ Residencial Morada dos Pardais III, Jardim Limoeiro, Camaçari - Bahia - Brasil
 
 ## Atualmente
 
-Buscando por posição de Engenheiro de Software Backend Pleno, preferencialmente em Node.js, que é linguagem em que possui maior experiência.
+Buscando por posição de Engenheiro de Software Backend Pleno, preferencialmente em Node.js, que é a linguagem em que possui maior experiência, ou golang, a linguagem que está aprendendo atualmente.
 
 ## Habilidades
 
 ### Especializado em
 
-Desenvolvimento backend com Node.js, Typescript, Linux
+Desenvolvimento backend com Node.js, Typescript, Golang, Linux
 
 ### Ferramentas
 
@@ -65,69 +66,73 @@ Linux, Nginx, Docker, Heroku, VM's, Digital Ocean Droplets, VPS's
 
 ### Idiomas
 
-Portuguese: Nativo
+Português: Nativo
 
-English: entende bem, fala bem, lê bem, escreve bem
+Inglês: Entende bem, Fala bem, Lê bem, Escreve bem
 
 ## Projetos Pessoais
 
-<a href="https://github.com/rainanDeveloper/MercuryApp" target="_blank">Mercury App</a>: MVP de aplicação de envio de mensagens com criptografia assimétrica e implementação de diffie-hellman.
+: MVP de aplicação de envio de mensagens com criptografia assimétrica e implementação de diffie-hellman.
 
-<a href="https://github.com/rainanDeveloper/js-context-logger" target="_blank">Js Context Logger</a>: Biblioteca básica de log com contexto feito em node.js.
+: Biblioteca básica de log com contexto feito em node.js.
 
 ## Educação
 
 `2015-2018`
 IFBA Campus Camaçari - Curso técnico de TI
 
-`2023-2024`
+`2023-Agora`
 Times Idiomas - Curso avançado de Inglês
 
 `2026-Agora`
-IFBA Campus Camaçari - ABI em computação
+IFBA Campus Camaçari - Bacharelado em ABI em computação
 
 ## Experiência
 
 `2017-2018`
-<a href="https://portal.ifba.edu.br/camacari" target="_blank">IFBA Campus Camaçari</a>
 
 - Estagiário: Responsável pelo desenvolvimento do site da graduação em TI
 - Habilidades: Linguagem de programação PHP, HTML, CSS e Javascript
 
 `2018-2019`
-<a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
-- Estagiário: Responsável pelo desenvolvimento de aplicações diversas(backend, frontend, desktop, etc).
+- Estagiário: Responsável pelo desenvolvimento de aplicações diversas (backend, frontend, desktop, etc).
 - Habilidades: Linguagem de programação PHP, HTML, CSS, Javascript, MySQL
 
 `2019-2021`
-<a href="http://clariontec.com.br" target="_blank">Clariontec Sistemas</a>
 
-- Engenheiro de Software Fullstack Júnior: Responsável pelo desenvolvimento de aplicações diversas(backend, frontend, desktop, etc).
+- Engenheiro de Software Fullstack Júnior: Responsável pelo desenvolvimento de aplicações diversas (backend, frontend, desktop, etc).
 - Habilidades: Linguagem de programação PHP, HTML, CSS, Javascript, Node.js, Axios, MySQL, C#, .Net, PostgreSQL, Docker.
 
 `2021-2022`
-<a href="https://www.linkedin.com/company/blockhub-builders" target="_blank">Blockhub Tecnologia</a>
 
 - Engenheiro de Software Backend Júnior: Responsável pelo desenvolvimento de diversas API's.
 - Habilidades: Node.js, Docker, MongoDB, Typescript, NestJS, Axios
 
 `2022-2024`
-<a href="https://foursys.com.br/" target="_blank">Foursys</a>
 
 - Engenheiro de Software Backend Pleno no time do Banco Bradesco: Responsável pelo desenvolvimento de várias API's.
 - Habilidades: Docker, Node.js, Typescript, Axios, express
 
-`2024-Agora` 
-<a href="https://naxtool.com.br/index.php/home" target="_blank">Naxtool Sistemas</a>
+`2024-Agora`
 
-- Tech Lead e Engenheiro de Software Fullstack: Responsável pelo projeto do [Concilia Pix](https://conciliapix.com).
-- Habilidades: Golang, Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
+- Tech Lead e Engenheiro de Software Fullstack: Responsável pelo desenvolvimento do projeto [Concilia Pix](http://conciliapix.com/).
+- Habilidades: Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
 
 `2025-Agora`
-<a href="https://www.linkedin.com/company/codeforge-dev" target="_blank">Code Forge</a>
 
-- CEO e Lead Engineer
-- Habilidades: Golang, Node.js, Typescript, Docker, PostgreSQL, React.js, Nest.js, Docker, Github Actions CI, Jira, Github, Git, Linux, Nginx.
+<a href="https://www.codeforgebuilders.com.br/" target="_blank">Codeforge</a>
 
-Última Atualização: Marco de 2026
+- Estagiário: CEO e Desevolvedor principal
+- Habilidades: Golang, React.js, Next.js, Postgres, Typescript, Linux
+
+`2026-Agora`
+
+<a href="https://nucleonest.com.br/" target="_blank">Núcleo NEST</a>
+
+- Estagiário: Responsável pelo desenvolvimento de um SaaS Contábil
+- Habilidades: Python, Postgres, Typescript, React.js, Linux
+
+<!-- ### Rodapé
+
+Última atualização: Julho de 2026 -->
