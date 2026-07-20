@@ -70,12 +70,6 @@ Português: Nativo
 
 Inglês: Entende bem, Fala bem, Lê bem, Escreve bem
 
-## Projetos Pessoais
-
-: MVP de aplicação de envio de mensagens com criptografia assimétrica e implementação de diffie-hellman.
-
-: Biblioteca básica de log com contexto feito em node.js.
-
 ## Educação
 
 `2015-2018`
