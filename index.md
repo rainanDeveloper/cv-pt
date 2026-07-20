@@ -117,7 +117,7 @@ IFBA Campus Camaçari - Bacharelado em ABI em computação
 
 <a href="https://www.codeforgebuilders.com.br/" target="_blank">Codeforge</a>
 
-- Estagiário: CEO e Desevolvedor principal
+- CEO e Desevolvedor principal
 - Habilidades: Golang, React.js, Next.js, Postgres, Typescript, Linux
 
 `2026-Agora`
